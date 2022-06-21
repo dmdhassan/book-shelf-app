@@ -1,3 +1,9 @@
+# The Great Bookshelf of Udacity
+
+This project is a virtual bookshelf students/learners. Students are able to add their books to the bookshelf as well as update the rating or delete a book and search through their book lists. As a part of the Fullstack Nanodegree, it serves as a practice module: API Development and Documentation. By engaging in this project, I learn and apply fullstack skills structuring, implementing and testing well formatted API endpoints that leverage knowledge of HTTP and API development best practices. 
+
+All backend code follows [PEP8 style guidelines](https://www.python.org/dev/peps/pep-0008/). 
+
 ## Getting Started
 
 ### Pre-requisites and Local Development 
@@ -210,3 +216,13 @@ The API will return three error types when requests fail:
   "success": true
 }
 ```
+
+## Deployment N/A
+
+N/A
+
+## Authors
+Yours truly, Coach Caryn 
+
+## Acknowledgements 
+All awesome students and tutuors at Udacity, soon to be full stack extraordinaires! 
